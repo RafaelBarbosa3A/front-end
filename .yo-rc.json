@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "br.com.angular"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "front_end",
+    "packageName": "br.com.angular",
+    "packageFolder": "br/com/angular",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mariadb",
+    "prodDatabaseType": "mariadb",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWEwOThkYjg2MzA4MzYwYTIzOGI5YzMxMDNkMjEwN2JhNGNjYmU4MzZmMTI5YzIxMzY1MTBlNjk1MjhmODBlODBiZThiZTk0MGRlNmNlMWY4OWZjNjRiNTNkZDdhYjRhODk5MGM4YjE5MWE2M2M4YjdjMjgzZTViOWJlYzU1Nzk=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
