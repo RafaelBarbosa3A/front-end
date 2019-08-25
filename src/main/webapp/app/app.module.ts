@@ -18,6 +18,7 @@ import { FrontEndHomeModule } from './home/home.module';
 import { FrontEndAccountModule } from './account/account.module';
 import { FrontEndEntityModule } from './entities/entity.module';
 import * as moment from 'moment';
+import { MatToolbarModule, MatIconModule, MatSidenavModule, MatListModule, MatButtonModule } from  '@angular/material';
 // jhipster-needle-angular-add-module-import JHipster will add new module here
 import { JhiMainComponent, NavbarComponent, FooterComponent, PageRibbonComponent, ErrorComponent } from './layouts';
 
